@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "552309785952",
+    "firebase_url": "https://fir-uploadpicture.firebaseio.com",
+    "project_id": "fir-uploadpicture",
+    "storage_bucket": "fir-uploadpicture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552309785952:android:83f571c33a5e13a9",
+        "android_client_info": {
+          "package_name": "edu.poly.firebaseuploadpicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552309785952-rg8nqbd19cl7ad32cpt29698ubb5re81.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.poly.firebaseuploadpicture",
+            "certificate_hash": "E8BE69A84CB3E98CAA2ACE8F754E3E0D2C3EDD5B"
+          }
+        },
+        {
+          "client_id": "552309785952-8idmkje3l0m62goave19969vtta97nn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX91IF44yS_MJ32bs-mSCfPhulzKBSYlo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552309785952-8idmkje3l0m62goave19969vtta97nn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
